@@ -10,9 +10,12 @@
 |The Elements of Drawing (in Three Letters to Beginners)               |John Ruskin                   |1857|Dynamic Sketching                    |
 |Drawing From Plaster Casts                                            |International Textbook Company|1905|Observational Sketching              |
 |The Art of Sketching                                                  |G. Fraipont                   |1892|Observational Sketching              |
-|Linear Perspective Simplified                                         |John Holt                     |1861|Perspective                          |
-|Drawing Made Easy                                                     |Joseph C. Chase               |1919|Perspective                          |
-|Light and Shade                                                       |Anson K. Cross                |1901|Shading and Composition              |
+|The Theory and Practice of Perspective                                |G. A. Storey                  |1910|Perspective and Composition          |
+|Linear Perspective Simplified                                         |John Holt                     |1861|Perspective and Composition          |
+|Complete Perspective Course                                           |J. Humphrey Spanton           |1900|Perspective and Composition          |
+|Drawing Made Easy                                                     |Joseph C. Chase               |1919|Perspective and Composition          |
+|Art of Composition                                                    |Michel jacobs                 |1926|Perspective and Composition          |
+|Light and Shade                                                       |Anson K. Cross                |1901|Shading and Contrast                 |
 |Principles of Design                                                  |Sébastien Le Clerc            |1824|Design Theory                        |
 |Figure Drawing and Composition                                        |Richard G. Hatton             |1895|Figure Drawing and Anatomy           |
 |Living Anatomy                                                        |Cecil L. Burns                |1900|Figure Drawing and Anatomy           |
