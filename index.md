@@ -3,7 +3,7 @@ title: Free Drawing Books
 description: A curated list of copyright-free books for learning how to draw — from beginner to advanced.
 ---
 
-# Free Drawing Book Guide
+# Free Drawing Books
 
 [Here is the full list of all the books that are publicly available without copyright.](/copyright-free-books.md)
 
