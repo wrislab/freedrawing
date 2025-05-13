@@ -15,7 +15,9 @@ Sometimes, paying is good. Adds some extra motivation. But oftentimes, we overlo
 
 Think for a moment. Look up paintings from past centuries. See how magnificent even some thousand-year-old works are. They also went through the same process of learning. And many brilliant people documented, curated, and passed down their journeys to newer generations.
 
-Obviously, there are some very good books under copyright indeed. But my point is, like the previous artists, our current artist authors also have poured their knowledge and experiences into their books and courses. They deserve the business with whoever can pay them. But that doesn't mean use those resources illegally. They won't provide peace to the soul. Rather, as the whole free world still exists, of that you may merely finish a corner, let's dive there.
+Obviously, there are some very good books under copyright—no doubt about that. Like the artists of the past, today’s artist-authors have also poured their knowledge and experiences into their books and courses. They deserve to do business with those who can pay. But that doesn’t mean we should use those resources illegally. They won’t bring peace to the soul.
+
+Instead, let’s remember that a whole world of free knowledge still exists—so vast that you may only finish a corner of it in your lifetime. Let’s dive into that.
 
 Have patience. Pick a book. And be amazed as you read these astonishing documentations from past centuries.
 
