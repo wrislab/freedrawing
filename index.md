@@ -11,9 +11,11 @@ Here is the full list of all the books that are publicly available without copyr
 
 Day by day, the internet is getting easier to get lost in—an ocean of content. It’s not uncommon to see people spending more time online looking for the right resource that fits their skill progression than actually learning the skill itself. Struggling to get a grip on a resource to understand where you actually need to improve is real. Because the linear path—a curated syllabus—is often missing. And people are doing business by keeping that syllabus behind a paywall.
 
-Sometimes, paying is good. It helps you psychologically. But oftentimes, we overlook how much effort artists from earlier centuries put into their craft—effort that made today’s art possible. One way or another, the basic things are being presented over and over again, just in different sets with different names.
+Sometimes, paying is good. Adds some extra motivation. But oftentimes, we overlook how much effort artists from earlier centuries put into their craft—effort that made today’s art possible. One way or another, the basic things are being presented over and over again, just in different sets with different names. 
 
 Think for a moment. Look up paintings from past centuries. See how magnificent even some thousand-year-old works are. They also went through the same process of learning. And many brilliant people documented, curated, and passed down their journeys to newer generations.
+
+Obviously, there are some very good books under copyright indeed. But my point is, like the previous artists, our current artist authors also have poured their knowledge and experiences into their books and courses. They deserve the business with whoever can pay them. But that doesn't mean use those resources illegally. They won't provide peace to the soul. Rather, as the whole free world still exists, of that you may merely finish a corner, let's dive there.
 
 Have patience. Pick a book. And be amazed as you read these astonishing documentations from past centuries.
 
