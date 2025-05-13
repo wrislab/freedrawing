@@ -1,5 +1,5 @@
 ---
-title: Free Drawing Book Guide
+title: Free Drawing Books
 description: A curated list of copyright-free books for learning how to draw — from beginner to advanced.
 ---
 
