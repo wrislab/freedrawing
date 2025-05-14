@@ -57,4 +57,4 @@ If you're more inclined toward figure drawing, **George B. Bridgman's books** ar
 
 Happy Drawing!
 
-<center>This page is maintained by [wrislab](https://github.com/wrislab).</center>
+<center>This page is maintained by <a href="https://github.com/wrislab">wrislab</a>.</center>
