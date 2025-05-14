@@ -7,7 +7,7 @@ description: A curated list of copyright-free books for learning how to draw —
 
 Here is the full list of all the books that are publicly available without copyright:
 
-## [Complete Book List](/booklist.md)
+## [📌 Complete Book List](/booklist.md)
 
 Day by day, the internet is getting easier to get lost in—an ocean of content. It’s not uncommon to see people spending more time online looking for the right resource that fits their skill progression than actually learning the skill itself. Struggling to get a grip on a resource to understand where you actually need to improve is real. Because the linear path—a curated syllabus—is often missing. And people are doing business by keeping that syllabus behind a paywall.
 
