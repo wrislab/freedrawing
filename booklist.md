@@ -1,43 +1,43 @@
-|Title                                                                 |Author                        |Year|Category                             |
-|----------------------------------------------------------------------|------------------------------|----|-------------------------------------|
-|What to Draw and How to Draw It                                       |Edwin G. Lutz                 |1913|Children's Drawing Book              |
-|Drawing Made Easy: A Helpful Book for Young Artists                   |Edwin G. Lutz                 |1921|Children's Drawing Book              |
-|Sketching and Rendering in Pencil                                     |Arthur L. Guptill             |1922|Classical Drawing Practice           |
-|The Practice & Science of Drawing                                     |Harold Speed                  |1913|Classical Drawing Practice           |
-|Line and Form                                                         |Walter Crane                  |1900|Classical Drawing Practice           |
-|Free-Hand Drawing                                                     |Anson K. Cross                |1904|Dynamic Sketching                    |
-|Line: An Art Study                                                    |Edmund J. Sullivan            |1922|Dynamic Sketching                    |
-|The Elements of Drawing (in Three Letters to Beginners)               |John Ruskin                   |1857|Dynamic Sketching                    |
-|Drawing From Plaster Casts                                            |International Textbook Company|1905|Observational Sketching              |
-|The Art of Sketching                                                  |G. Fraipont                   |1892|Observational Sketching              |
-|The Theory and Practice of Perspective                                |G. A. Storey                  |1910|Perspective and Composition          |
-|Linear Perspective Simplified                                         |John Holt                     |1861|Perspective and Composition          |
-|Complete Perspective Course                                           |J. Humphrey Spanton           |1900|Perspective and Composition          |
-|Drawing Made Easy                                                     |Joseph C. Chase               |1919|Perspective and Composition          |
-|Art of Composition                                                    |Michel jacobs                 |1926|Perspective and Composition          |
-|Light and Shade                                                       |Anson K. Cross                |1901|Shading and Contrast                 |
-|Principles of Design                                                  |Sébastien Le Clerc            |1824|Design Theory                        |
-|Figure Drawing and Composition                                        |Richard G. Hatton             |1895|Figure Drawing and Anatomy           |
-|Living Anatomy                                                        |Cecil L. Burns                |1900|Figure Drawing and Anatomy           |
-|A Handbook of Anatomy for Art Students                                |Arthur Thomson                |1915|Figure Drawing and Anatomy           |
-|Constructive Anatomy                                                  |George B. Bridgman            |1920|Figure Drawing and Anatomy           |
-|The Art of Figure Drawing                                             |Charles H. Weigall            |1852|Figure Drawing and Anatomy           |
-|The Human Figure                                                      |John H. Vanderpoel            |1907|Figure Drawing and Anatomy           |
-|Book of a Hundred Hands                                               |George B. Bridgman            |1946|Figure Drawing and Anatomy           |
-|Figure Drawing                                                        |Richard G. Hatton             |1946|Figure Drawing and Anatomy           |
-|Artistic Anatomy                                                      |Henry Warren                  |1852|Figure Drawing and Anatomy           |
-|Practical Art Anatomy                                                 |E. G. Lutz                    |1918|Figure Drawing and Anatomy           |
-|Studies of the Human Figure                                           |G. M. Ellwood                 |1918|Figure Drawing and Anatomy           |
-|Drawing Children                                                      |Caroline Hunt Rimmer          |1893|Figure Drawing and Anatomy           |
-|A Guide to Figure Drawing                                             |G. E. Hicks                   |1853|Figure Drawing and Anatomy           |
-|Elements of Drawing                                                   |H. Williams                   |1814|Figure Drawing and Anatomy           |
-|A Treatise on How to Illustrate for Newspapers, Books, Magazines, etc.|Charles Hope Provost          |1903|Illustration and Cartooning          |
-|Animated Cartoons                                                     |Edwin G. Lutz                 |1920|Illustration and Cartooning          |
-|Applied Drawing                                                       |Harold H. Brown               |1916|Ornament and Decorative Drawing      |
-|Guide for Drawing the Acanthus                                        |James Page                    |1886|Ornament and Decorative Drawing      |
-|Historic Ornament                                                     |James Ward                    |1897|Master Studies and Historical Drawing|
-|Combinaisons Ornementales                                             |Verneuil, Auriol, Mucha       |1897|Master Studies and Historical Drawing|
-|The Drawings of D. G. Rossetti                                        |T. Martin Wood                |1907|Master Studies and Historical Drawing|
-|The Drawings of Rembrandt                                             |Malcolm Bell                  |1901|Master Studies and Historical Drawing|
-|Ars Pictoria                                                          |Alexander Browne              |1669|Master Studies and Historical Drawing|
-|Color Harmony and Contrast                                            |James Ward                    |1912|Color Theory                         |
+| Title | Author | Year | Category |
+|---|---|---|---|
+|[What to Draw and How to Draw It](https://archive.org/download/whattodrawhowtod00lutz/whattodrawhowtod00lutz.pdf)                                       |Edwin G. Lutz          |1913|Children's Drawing Book         |
+|[Drawing Made Easy: A Helpful Book for Young Artists](https://archive.org/download/drawingmadeeasyh00lutz/drawingmadeeasyh00lutz.pdf)                   |Edwin G. Lutz          |1921|Children's Drawing Book         |
+|[Sketching and Rendering in Pencil](https://archive.org/download/sketchingrenderi00guptuoft/sketchingrenderi00guptuoft.pdf)                                     |Arthur L. Guptill      |1922|Classical Drawing Practice      |
+|[The Practice & Science of Drawing](https://www.gutenberg.org/files/14264/14264-h/14264-h.htm)                                     |Harold Speed           |1913|Classical Drawing Practice      |
+|[Line and Form](https://www.gutenberg.org/files/25290/25290-h/25290-h.htm)                                                         |Walter Crane           |1900|Classical Drawing Practice      |
+|[Free-Hand Drawing](https://books.google.com.bd/books/download/Free_hand_Drawing.pdf)                                                     |Anson K. Cross         |1904|Dynamic Sketching               |
+|[Line: An Art Study](https://archive.org/download/lineartstudy00sulluoft/lineartstudy00sulluoft.pdf)                                                    |Edmund J. Sullivan     |1922|Dynamic Sketching               |
+|[The Elements of Drawing (in Three Letters to Beginners)](https://www.gutenberg.org/ebooks/30325.html.images)               |John Ruskin            |1857|Dynamic Sketching               |
+|[Drawing From Plaster Casts](https://drawingbooks.org/epubs/b_plaster/dev_working.html)                                            |Int. Textbook Co.      |1905|Observational Sketching         |
+|[The Art of Sketching](https://archive.org/download/in.ernet.dli.2015.127797/2015.127797.The-Art-Of-Making-And-Using-Sketches.pdf)                                                  |G. Fraipont            |1892|Observational Sketching         |
+|[The Theory and Practice of Perspective](https://www.gutenberg.org/cache/epub/20165/pg20165-images.html)                                |G. A. Storey           |1910|Perspective and Composition     |
+|[Linear Perspective Simplified](https://books.google.com/books/download/Linear_perspective_simplified.pdf)                                         |John Holt              |1861|Perspective and Composition     |
+|[Complete Perspective Course](https://archive.org/download/completeperspect00spanuoft/completeperspect00spanuoft.pdf)                                           |J. Humphrey Spanton    |1900|Perspective and Composition     |
+|[Drawing Made Easy](https://archive.org/download/drawingmadeeasy00chas/drawingmadeeasy00chas.pdf)                                                     |Joseph C. Chase        |1919|Perspective and Composition     |
+|[Art of Composition](https://archive.org/download/artofcomposition00jacouoft/artofcomposition00jacouoft.pdf)                                                    |Michel jacobs          |1926|Perspective and Composition     |
+|[Light and Shade](https://archive.org/download/lightandshade00crosgoog/lightandshade00crosgoog.pdf)                                                       |Anson K. Cross         |1901|Shading and Contrast            |
+|[Principles of Design](https://archive.org/download/principlesofdesi00lecl_0/principlesofdesi00lecl_0.pdf)                                                  |Sébastien Le Clerc     |1824|Design Theory                   |
+|[Figure Drawing and Composition](https://archive.org/download/figuredrawingcom00hatt/figuredrawingcom00hatt.pdf)                                        |Richard G. Hatton      |1895|Figure Drawing and Anatomy      |
+|[Living Anatomy](https://archive.org/download/cu31924020548586/cu31924020548586.pdf)                                                        |Cecil L. Burns         |1900|Figure Drawing and Anatomy      |
+|[A Handbook of Anatomy for Art Students](https://archive.org/download/handbookofanatom00thom/handbookofanatom00thom.pdf)                                |Arthur Thomson         |1915|Figure Drawing and Anatomy      |
+|[Constructive Anatomy](https://www.scott-eaton.com/outgoing/books/George-Bridgman-Constructive-Anatomy.pdf)                                                  |George B. Bridgman     |1920|Figure Drawing and Anatomy      |
+|[The Art of Figure Drawing](https://archive.org/download/artoffiguredrawi00weig/artoffiguredrawi00weig.pdf)                                             |Charles H. Weigall     |1852|Figure Drawing and Anatomy      |
+|[The Human Figure](https://archive.org/download/humanfigure00vanduoft/humanfigure00vanduoft.pdf)                                                      |John H. Vanderpoel     |1907|Figure Drawing and Anatomy      |
+|[Book of a Hundred Hands](https://archive.org/download/TheBookOfAHundredHands/TheBookOfAHundredHands.pdf)                                               |George B. Bridgman     |1946|Figure Drawing and Anatomy      |
+|[Figure Drawing](https://archive.org/download/figuredrawingcom00hatt/figuredrawingcom00hatt.pdf)                                                        |Richard G. Hatton      |1946|Figure Drawing and Anatomy      |
+|[Artistic Anatomy](https://archive.org/download/artisticanatomyo00warr_1/artisticanatomyo00warr_1.pdf)                                                      |Henry Warren           |1852|Figure Drawing and Anatomy      |
+|[Practical Art Anatomy](https://archive.org/download/practicalartanat00lutz/practicalartanat00lutz.pdf)                                                 |E. G. Lutz             |1918|Figure Drawing and Anatomy      |
+|[Studies of the Human Figure](https://archive.org/download/studiesofhumanfi00ellw/studiesofhumanfi00ellw.pdf)                                           |G. M. Ellwood          |1918|Figure Drawing and Anatomy      |
+|[Drawing Children](https://archive.org/download/figuredrawingfor00rimm/figuredrawingfor00rimm.pdf)                                                      |Caroline Hunt Rimmer   |1893|Figure Drawing and Anatomy      |
+|[A Guide to Figure Drawing](https://archive.org/download/aguidetofigured00hickgoog/aguidetofigured00hickgoog.pdf)                                             |G. E. Hicks            |1853|Figure Drawing and Anatomy      |
+|[Elements of Drawing](https://archive.org/download/elementsofdrawin00will/elementsofdrawin00will.pdf)                                                   |H. Williams            |1814|Figure Drawing and Anatomy      |
+|[A Treatise on How to Illustrate for Newspapers, Books, Magazines, etc.](https://archive.org/download/atreatiseonhowt00provgoog/atreatiseonhowt00provgoog.pdf)|Charles Hope Provost   |1903|Illustration and Cartooning     |
+|[Animated Cartoons](https://archive.org/download/cu31924075701304/cu31924075701304.pdf)                                                     |Edwin G. Lutz          |1920|Illustration and Cartooning     |
+|[Applied Drawing](https://archive.org/download/applieddrawing00brow/applieddrawing00brow.pdf)                                                       |Harold H. Brown        |1916|Ornament and Decorative Drawing |
+|[Guide for Drawing the Acanthus](https://archive.org/download/guidefordrawinga00pagerich/guidefordrawinga00pagerich.pdf)                                        |James Page             |1886|Ornament and Decorative Drawing |
+|[Historic Ornament Vol 1](https://www.gutenberg.org/cache/epub/59746/pg59746-images.html) & [Vol 2](https://www.gutenberg.org/cache/epub/59971/pg59971-images.html)                                                     |James Ward             |1897|Historical Drawing Study        |
+|[Combinaisons Ornementales](https://archive.org/download/CombinaisonsOrnementales/CombinaisonsOrnementales.pdf)                                             |Verneuil, Auriol, Mucha|1897|Historical Drawing Study   |
+|[The Drawings of D. G. Rossetti](https://www.gutenberg.org/cache/epub/46087/pg46087-images.html)                                        |T. Martin Wood         |1907|Historical Drawing Study        |
+|[The Drawings of Rembrandt](https://archive.org/download/drawingsofrembra00bell/drawingsofrembra00bell.pdf)                                             |Malcolm Bell           |1901|Historical Drawing Study        |
+|[Ars Pictoria](https://archive.org/download/gri_arspictoriao00brow/gri_arspictoriao00brow.pdf)                                                          |Alexander Browne       |1669|Historical Drawing Study        |
+|[Color Harmony and Contrast](https://archive.org/download/colourharmonycon00ward/colourharmonycon00ward.pdf)                                            |James Ward             |1912| Color Theory                    |
