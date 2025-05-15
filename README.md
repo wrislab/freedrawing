@@ -1,9 +1,11 @@
+This repo is currently live at [wrislab.github.io/freedrawing](wrislab.github.io/freedrawing)
 # Learn to Draw for Free
+
 
 Here is the full list of all the books that are publicly available without copyright:
 
 > ## [📌 Complete Book List](/booklist.md) 
-
+\
 Day by day, the internet is getting easier to get lost in—an ocean of content. It’s not uncommon to see people spending more time online looking for the right resource that fits their skill progression than actually learning the skill itself. Struggling to get a grip on a resource to understand where you actually need to improve is real. Because the linear path—a curated syllabus—is often missing. And people are doing business by keeping that syllabus behind a paywall.
 
 Sometimes, paying is good. Adds some extra motivation. But oftentimes, we overlook how much effort artists from earlier centuries put into their craft—effort that made today’s art possible. One way or another, the basic things are being presented over and over again, just in different sets with different names. 
