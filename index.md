@@ -57,4 +57,6 @@ If you're more inclined toward figure drawing, **George B. Bridgman's books** ar
 
 Happy Drawing!
 
-<center>To help update the list, please send an email to <a href="mailto:rfql@proton.me">Rafi</a>.</center>
+<center>
+  Found something to add? <a href="mailto:rfql@proton.me">Email here</a> or <a href="https://github.com/wrislab/freedrawing">open a pull request</a>.
+</center>
