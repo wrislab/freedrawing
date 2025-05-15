@@ -1,4 +1,4 @@
-This repo is currently live at [wrislab.github.io/freedrawing](wrislab.github.io/freedrawing)
+This repo is currently live at [wrislab.github.io/freedrawing](https://wrislab.github.io/freedrawing/)
 # Learn to Draw for Free
 
 
